@@ -1,6 +1,9 @@
-# SOFTENG Exam Collection
+# SoftEng Exam Collection
 
-**Professor**: Morisio Maurizio<br>
+| *Course Code* | 04GSP/01GSP |
+| :---------: | :---------: |
+| ***Professors*** | Maurizio Morisio, Luca Ardito |
+| ***Course sites***   | [2020 Course (04GSP)](https://softeng.polito.it/courses/04GSP/) <br>  [Old Course (01GSP)](https://softeng.polito.it/courses/01GSP/) |
 
 Missing:
 - January 2021
@@ -8,4 +11,5 @@ Missing:
 - January/September 2023
 - January 2024
 
-If you find them somewhere, or something useful for the exam, feel free to upload it there.
+If you find them somewhere, or something useful for the exam, feel free to upload it there. <br>
+**UPDATE June 28th, 2024**: The `older_exams` folder contains exams prior to 2020. The structure should be similar.

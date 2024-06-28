@@ -2,7 +2,7 @@
 
 | *Course Code* | 04GSP/01GSP |
 | :---------: | :---------: |
-| ***Professors*** | Maurizio Morisio, Luca Ardito |
+| ***Professors*** | Maurizio Morisio |
 | ***Course sites***   | [2020 Course (04GSP)](https://softeng.polito.it/courses/04GSP/) <br>  [Old Course (01GSP)](https://softeng.polito.it/courses/01GSP/) |
 
 Missing:

@@ -12,4 +12,4 @@ Missing:
 - January 2024
 
 If you find them somewhere, or something useful for the exam, feel free to upload it there. <br>
-**UPDATE June 28th, 2024**: The `older_exams` folder contains exams prior to 2020. The structure should be similar.
+The `older_exams` folder contains exams prior to 2020. The structure should be similar.

@@ -2,7 +2,7 @@
 
 | *Course Code* | 04GSP |
 | :---------: | :---------: |
-| ***Professors*** | Maurizio Morisio <br> Luca Ardito <br> Garaccione Giacomo |
+| ***Professors*** | Maurizio Morisio <br> Luca Ardito <br> Giacomo Garaccione |
 | ***Course sites***   | [2020 Course](https://softeng.polito.it/courses/04GSP/) <br>  [Old Course](https://softeng.polito.it/courses/01GSP/) |
 
 Missing:

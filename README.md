@@ -12,3 +12,5 @@ Missing:
 - January 2024
 
 The `older_exams` folder contains exams prior to 2020. The structure should be similar.
+
+> 📘 Last update: **July 1st, 2024**
